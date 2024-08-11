@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia-sarmento)](https://github.com/julia-sarmento/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=julia-sarmento&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @julia-sarmento
 - 👀 I’m interested in QA and Automation Testing 
