@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- QA Analyst focused on Automation Testing <br>- I’m currently developing some projects in Cypress<br>- How to reach me: jsarmentoc@gmail.com</p>
+<p align="left">- QA Analyst focused on Software and Automation Testing <br>- I’m currently developing some projects in Cypress<br>- How to reach me: jsarmentoc@gmail.com</p>
 
 ###
 
